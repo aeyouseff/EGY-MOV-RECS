@@ -1,5 +1,8 @@
 # EGY-MOV-RECS - Egyptian Movie Recommendation System
 
+## 🚀 Try the App Online
+🔗 **Live Demo:** [EGY-MOV-RECS App](https://egymovierecs.streamlit.app/)
+
 ## Project Description
 
 **EGY-MOV-RECS** is a Python-based movie recommendation system focused on Egyptian cinema. The application uses content-based filtering to recommend Egyptian movies based on a given movie title. It leverages natural language processing techniques, specifically **TF-IDF Vectorization** and **Cosine Similarity**, to compare movie features such as genres, keywords, tagline, cast, and director.
