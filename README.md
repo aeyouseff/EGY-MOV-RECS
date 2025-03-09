@@ -1,6 +1,6 @@
 # EGY-MOV-RECS - Egyptian Movie Recommendation System
 
-## 🚀 Try the App Online
+## Try the App Online
 🔗 **Live Demo:** [EGY-MOV-RECS App](https://egymovierecs.streamlit.app/)
 
 ## Project Description
